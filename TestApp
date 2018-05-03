@@ -1,0 +1,10 @@
+package testApp;
+public class TestApp{
+/**
+*@param args command line arguments
+*/
+public static void main(Sting[] args){
+//TODO code application logic here
+System.out.println("GIT test application");
+}
+}
