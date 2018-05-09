@@ -30,7 +30,11 @@ System.out.print("1st num: ");
 double a = Double.valueOf(in.nextLine());
 System.out.print("2nd num: ");
 double b = Double.valueOf(in.nextLine());
+<<<<<<< HEAD
 System.out.println("a+b="+(getMno()));
+=======
+System.out.println("a/b="+(getDil()));
+>>>>>>> conflictTest
 System.out.println("GIT test application");
 }
 }
