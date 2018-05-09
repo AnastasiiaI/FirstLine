@@ -13,6 +13,9 @@ public class SimpleCalc{
     public double getSub(){
       return this.a-this.b;
     }
+    public double getMno(){
+      return this.a*this.b;
+    }
 }
 
 public class TesApp {
