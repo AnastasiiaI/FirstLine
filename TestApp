@@ -3,9 +3,14 @@ package testapp;
 public class SimpleCalc{
   private double a;
   private double b;
-  private double z;
-  private double w;
 
+  SimpleCalc1(double p1, double p2){
+    this.w=p1;
+    this.z= p2;
+  }
+  public double getSum(){
+    return this.w+this.z;
+  }
     SimpleCalc(double p1, double p2){
       this.a=p1;
       this.b= p2;
