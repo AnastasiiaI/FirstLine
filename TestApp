@@ -32,5 +32,6 @@ System.out.print("2nd num: ");
 double b = Double.valueOf(in.nextLine());
 System.out.println("a+b="+(getMno()));
 System.out.println("GIT test application");
+System.out.println("a/b="+(getDil()));
 }
 }
