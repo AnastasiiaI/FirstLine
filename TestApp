@@ -21,6 +21,13 @@ public class SimpleCalc{
     }
 
 }
+SimpleCalc(double p1, double p2){
+  this.v=p1;
+  this.f= p2;
+}
+public double getSum(){
+  return this.v+this.f;
+}
 
 public class TesApp {
 
