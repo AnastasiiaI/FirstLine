@@ -3,6 +3,7 @@ package testapp;
 public class SimpleCalc{
   private double a;
   private double b;
+  
 
   SimpleCalc1(double p1, double p2){
     this.w=p1;
